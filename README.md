@@ -110,6 +110,7 @@ Designing and supporting software and automation solutions that help improve int
 - 🔄 Workflow improvement
 - 🧩 Support for enterprise systems and operations
 
+---
 
 # 🎓 Education
 
