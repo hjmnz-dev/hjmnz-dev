@@ -50,13 +50,15 @@
 
 ## Working With
 
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cs,dotnet,react,express,postgres,mongodb,azure" />
 </p>
 
-**Also familiar with:** Entity Framework, jQuery, Power BI
+**Also familiar with:** Laravel, SQL Server, Entity Framework, Power BI, REST APIs
 
 ---
+
 
 # 🚀 Featured Project
 
@@ -98,7 +100,7 @@ A Netflix-style streaming platform built as a backend-focused software project.
 
 ## DevOps Analyst  
 **Seaboard Transcontinental Capital Corporation**  
-📅 **2024 – Present**
+📅 **June 2024 – Present**
 
 Designing and supporting software and automation solutions that help improve internal business processes and operational workflows.
 
@@ -108,7 +110,6 @@ Designing and supporting software and automation solutions that help improve int
 - 🔄 Workflow improvement
 - 🧩 Support for enterprise systems and operations
 
----
 
 # 🎓 Education
 
@@ -122,15 +123,20 @@ Designing and supporting software and automation solutions that help improve int
 📅 **January 2023 – August 2025**  
 📍 Santo Domingo, Dominican Republic
 
+
 ---
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hjmnz-dev&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjmnz-dev&layout=compact&theme=tokyonight" />
-</p>
-
+  
+# 🏅 Certifications  
+  
+<p align="center">  
+<img src="https://img.shields.io/badge/Microsoft-AZ--900-blue?style=for-the-badge&logo=microsoft&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Microsoft-DP--900-blue?style=for-the-badge&logo=microsoft&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Microsoft-PL--900-purple?style=for-the-badge&logo=microsoft&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Scrum-Fundamentals-orange?style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/Cisco-IT%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Oracle-Backend-red?style=for-the-badge&logo=oracle&logoColor=white"/>  
+</p>  
+  
 ---
 
 # 🌐 Connect With Me
@@ -142,14 +148,6 @@ Designing and supporting software and automation solutions that help improve int
   <a href="mailto:hamselljimenez@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-# 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
