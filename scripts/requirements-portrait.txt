@@ -1,0 +1,6 @@
+# Only needed locally to regenerate the ASCII portrait.
+pillow
+numpy
+opencv-python-headless
+rembg
+onnxruntime

@@ -6,6 +6,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Backend+Developer;Automation+Builder;Business+Systems+Enthusiast;Always+Learning+and+Building" />
 </p>
 
+<div align="center">
+
+<h3><code>hamsell@github ~ $ whoami</code></h3>
+
+<img src="./hamsell-ascii.svg" width="42.5%" alt="ASCII portrait of Hamsell" /> <img src="./info-card.svg" width="56.2%" alt="Hamsell: DevOps Analyst at Seaboard, Software Engineering student at INTEC, based in Santo Domingo" />
+
+<br /><br />
+
+<h3><code>hamsell@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="100%" alt="GitHub contribution heatmap for the last year" />
+
+</div>
+
+<br />
+
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Automation-blue?style=for-the-badge"/>
